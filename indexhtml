@@ -1,0 +1,25 @@
+<form action="/submit" method="post">
+
+Singer Name
+
+<input name="singer">
+
+Videos
+
+<input name="videos">
+
+Duration
+
+<input name="duration">
+
+Email
+
+<input name="email">
+
+<button type="submit">
+
+Submit
+
+</button>
+
+</form>
